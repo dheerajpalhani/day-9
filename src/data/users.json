@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "name": "Arjun Mehta",
+  "email": "arjun@zoya.app",
+  "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200",
+  "phone": "+91 98765 43210",
+  "joinDate": "2024-08-15",
+  "rewardsPoints": 2450,
+  "tier": "Gold",
+  "preferences": ["spicy", "non-veg", "fast-food"],
+  "savedAddresses": [
+    { "id": 1, "label": "Home", "address": "42 Maple Drive, Koramangala, Bangalore 560034", "isDefault": true },
+    { "id": 2, "label": "Office", "address": "Tower B, WeWork Galaxy, Residency Road, Bangalore 560025", "isDefault": false },
+    { "id": 3, "label": "Gym", "address": "Cult Fitness, HSR Layout, Bangalore 560102", "isDefault": false }
+  ],
+  "previousOrders": [
+    { "id": "ZOY-1001", "restaurantId": 8, "restaurantName": "Royal Biryani House", "items": [{"name": "Hyderabadi Dum Biryani", "qty": 2, "price": 349}], "total": 698, "date": "2026-04-28", "status": "Delivered", "rating": 5 },
+    { "id": "ZOY-1002", "restaurantId": 4, "restaurantName": "Tuscany Table", "items": [{"name": "Margherita Pizza", "qty": 1, "price": 349}, {"name": "Garlic Bread", "qty": 1, "price": 99}], "total": 448, "date": "2026-04-25", "status": "Delivered", "rating": 4 },
+    { "id": "ZOY-1003", "restaurantId": 7, "restaurantName": "Burger Barn", "items": [{"name": "Classic Smash Burger", "qty": 2, "price": 249}, {"name": "Crispy Fries", "qty": 1, "price": 99}], "total": 597, "date": "2026-04-22", "status": "Delivered", "rating": 5 },
+    { "id": "ZOY-1004", "restaurantId": 1, "restaurantName": "The Golden Grill", "items": [{"name": "Butter Chicken", "qty": 1, "price": 349}, {"name": "Garlic Naan", "qty": 2, "price": 69}], "total": 487, "date": "2026-04-18", "status": "Delivered", "rating": 4 },
+    { "id": "ZOY-1005", "restaurantId": 5, "restaurantName": "Green Bowl Co.", "items": [{"name": "Protein Power Bowl", "qty": 1, "price": 299}], "total": 299, "date": "2026-04-15", "status": "Delivered", "rating": 5 },
+    { "id": "ZOY-1006", "restaurantId": 9, "restaurantName": "Sweet Surrender", "items": [{"name": "Chocolate Lava Cake", "qty": 2, "price": 199}, {"name": "Tiramisu", "qty": 1, "price": 249}], "total": 647, "date": "2026-04-10", "status": "Delivered", "rating": 5 }
+  ],
+  "favorites": [1, 4, 5, 8, 18]
+}

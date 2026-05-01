@@ -1,0 +1,17 @@
+[
+  {"id":1,"restaurantId":1,"userName":"Priya S.","rating":5,"comment":"Best butter chicken in town! Creamy and perfectly spiced.","date":"2026-04-20"},
+  {"id":2,"restaurantId":1,"userName":"Rahul K.","rating":4,"comment":"Great food but delivery was a bit slow.","date":"2026-04-18"},
+  {"id":3,"restaurantId":2,"userName":"Sneha M.","rating":5,"comment":"Authentic South Indian breakfast. The dosa is crispy perfection!","date":"2026-04-22"},
+  {"id":4,"restaurantId":4,"userName":"Arjun P.","rating":5,"comment":"The Margherita pizza rivals any Italian restaurant.","date":"2026-04-19"},
+  {"id":5,"restaurantId":5,"userName":"Neha R.","rating":4,"comment":"Healthy and delicious! Love the protein bowls.","date":"2026-04-21"},
+  {"id":6,"restaurantId":7,"userName":"Vikram S.","rating":5,"comment":"These burgers are absolutely massive and tasty!","date":"2026-04-17"},
+  {"id":7,"restaurantId":8,"userName":"Aisha K.","rating":5,"comment":"The Hyderabadi biryani is out of this world. So fragrant!","date":"2026-04-23"},
+  {"id":8,"restaurantId":8,"userName":"Dev M.","rating":5,"comment":"Best biryani I've had outside Hyderabad.","date":"2026-04-20"},
+  {"id":9,"restaurantId":9,"userName":"Meera J.","rating":4,"comment":"The chocolate lava cake is divine.","date":"2026-04-16"},
+  {"id":10,"restaurantId":4,"userName":"Karan T.","rating":4,"comment":"Pasta was al dente, just the way I like it.","date":"2026-04-15"},
+  {"id":11,"restaurantId":3,"userName":"Ritu S.","rating":4,"comment":"Good Chinese food. The dragon chicken is spicy and flavorful.","date":"2026-04-14"},
+  {"id":12,"restaurantId":6,"userName":"Aman G.","rating":4,"comment":"Reminds me of Mumbai streets. Amazing pav bhaji!","date":"2026-04-13"},
+  {"id":13,"restaurantId":10,"userName":"Divya N.","rating":5,"comment":"Fresh and authentic. The rava dosa is a must try!","date":"2026-04-12"},
+  {"id":14,"restaurantId":12,"userName":"Sanjay R.","rating":4,"comment":"Great pizza but a bit pricey for the portion.","date":"2026-04-11"},
+  {"id":15,"restaurantId":18,"userName":"Pooja L.","rating":5,"comment":"The macarons are absolutely beautiful and delicious.","date":"2026-04-10"}
+]

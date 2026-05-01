@@ -1,0 +1,16 @@
+{
+  "comboRules": [
+    { "trigger": "Margherita Pizza", "triggerIds": [12], "suggest": { "id": 14, "name": "Garlic Bread", "price": 99, "message": "Add Garlic Bread for just ₹99?" } },
+    { "trigger": "Pepperoni Pizza", "triggerIds": [34], "suggest": { "id": 14, "name": "Garlic Bread", "price": 99, "message": "Complete your pizza with Garlic Bread for ₹99?" } },
+    { "trigger": "BBQ Chicken Pizza", "triggerIds": [35], "suggest": { "id": 25, "name": "Coke", "price": 49, "message": "Add a chilled Coke for just ₹49?" } },
+    { "trigger": "Classic Smash Burger", "triggerIds": [22], "suggest": { "id": 23, "name": "Crispy Fries", "price": 99, "message": "Combo with Fries + Coke for ₹148?" } },
+    { "trigger": "Veggie Burger", "triggerIds": [56], "suggest": { "id": 23, "name": "Crispy Fries", "price": 99, "message": "Make it a combo! Add Fries for ₹99?" } },
+    { "trigger": "Butter Chicken", "triggerIds": [1], "suggest": { "id": 3, "name": "Garlic Naan", "price": 69, "message": "Add Garlic Naan to go with it for ₹69?" } },
+    { "trigger": "Masala Dosa", "triggerIds": [6], "suggest": { "id": 7, "name": "Idli Sambar", "price": 99, "message": "Add Idli Sambar for a full breakfast for ₹99?" } },
+    { "trigger": "Hakka Noodles", "triggerIds": [9], "suggest": { "id": 10, "name": "Manchurian", "price": 179, "message": "Pair with Manchurian for the perfect combo?" } },
+    { "trigger": "Hyderabadi Dum Biryani", "triggerIds": [26], "suggest": { "id": 30, "name": "Gulab Jamun", "price": 99, "message": "End your meal with Gulab Jamun for ₹99?" } },
+    { "trigger": "Protein Power Bowl", "triggerIds": [16], "suggest": { "id": 19, "name": "Smoothie Bowl", "price": 199, "message": "Add a Smoothie Bowl for complete nutrition?" } },
+    { "trigger": "Steamed Momos", "triggerIds": [43], "suggest": { "id": 44, "name": "Fried Momos", "price": 149, "message": "Try our Fried Momos too for ₹149?" } },
+    { "trigger": "Chocolate Lava Cake", "triggerIds": [28], "suggest": { "id": 29, "name": "Tiramisu", "price": 249, "message": "Add a Tiramisu for dessert heaven?" } }
+  ]
+}

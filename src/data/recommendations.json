@@ -1,0 +1,23 @@
+{
+  "categoryBased": {
+    "burger": [23, 24, 25],
+    "pizza": [14, 13, 25],
+    "biryani": [1, 27, 3],
+    "chinese": [10, 33, 11],
+    "south-indian": [7, 8, 31],
+    "dessert": [29, 30, 45],
+    "healthy": [17, 19, 36, 37],
+    "fast-food": [21, 23, 49]
+  },
+  "spicyLovers": [11, 26, 27, 33, 47, 53, 24, 44],
+  "timeBased": {
+    "breakfast": [6, 7, 52, 31, 48],
+    "lunch": [4, 9, 22, 26, 20, 49],
+    "dinner": [1, 15, 26, 27, 41, 42, 47],
+    "lateNight": [22, 23, 43, 44, 34]
+  },
+  "healthPicks": [16, 17, 18, 19, 36, 37, 54, 55],
+  "trending": [26, 12, 22, 1, 45, 47, 41],
+  "budgetFriendly": [21, 58, 25, 40, 7, 3, 30],
+  "premiumPicks": [41, 42, 45, 46, 15, 26, 27]
+}
