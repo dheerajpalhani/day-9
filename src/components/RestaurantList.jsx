@@ -43,11 +43,10 @@ export default function RestaurantList({ category }) {
               <button
                 key={f.value}
                 onClick={() => setFilter(f.value)}
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all border ${
-                  filter === f.value
+                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all border ${filter === f.value
                     ? 'bg-gold text-black-deep border-gold'
                     : 'bg-black-elevated text-warm-gray border-black-border hover:border-gold/40'
-                }`}
+                  }`}
               >
                 {f.label}
               </button>

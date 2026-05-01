@@ -62,9 +62,8 @@ export default function MenuPage() {
             <motion.button
               whileTap={{ scale: 0.8 }}
               onClick={() => dispatch({ type: 'TOGGLE_FAVORITE', payload: restaurant.id })}
-              className={`w-10 h-10 rounded-full flex items-center justify-center border transition-all ${
-                isFav ? 'bg-gold border-gold text-black-deep' : 'bg-black-deep/50 border-black-border text-warm-white hover:border-gold/50'
-              }`}
+              className={`w-10 h-10 rounded-full flex items-center justify-center border transition-all ${isFav ? 'bg-gold border-gold text-black-deep' : 'bg-black-deep/50 border-black-border text-warm-white hover:border-gold/50'
+                }`}
             >
               <FiHeart fill={isFav ? 'currentColor' : 'none'} />
             </motion.button>

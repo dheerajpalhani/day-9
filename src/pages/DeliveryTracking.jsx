@@ -83,11 +83,10 @@ export default function DeliveryTracking() {
                 <motion.div
                   animate={isCurrent ? { scale: [1, 1.2, 1] } : {}}
                   transition={{ repeat: isCurrent ? Infinity : 0, duration: 1.5 }}
-                  className={`w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0 z-10 border-2 transition-all ${
-                    isActive
+                  className={`w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0 z-10 border-2 transition-all ${isActive
                       ? 'bg-gold border-gold text-black-deep'
                       : 'bg-black-elevated border-black-border text-warm-dim'
-                  }`}
+                    }`}
                 >
                   {stage.icon}
                 </motion.div>

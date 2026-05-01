@@ -37,11 +37,10 @@ export default function Navbar() {
             <Link
               key={link.to}
               to={link.to}
-              className={`flex items-center gap-1.5 text-sm transition-colors duration-200 ${
-                location.pathname === link.to
+              className={`flex items-center gap-1.5 text-sm transition-colors duration-200 ${location.pathname === link.to
                   ? 'text-gold'
                   : 'text-warm-gray hover:text-warm-white'
-              }`}
+                }`}
             >
               {link.icon}
               {link.label}
@@ -76,9 +75,8 @@ export default function Navbar() {
           <Link
             key={link.to}
             to={link.to}
-            className={`flex flex-col items-center gap-0.5 text-xs transition-colors ${
-              location.pathname === link.to ? 'text-gold' : 'text-warm-gray'
-            }`}
+            className={`flex flex-col items-center gap-0.5 text-xs transition-colors ${location.pathname === link.to ? 'text-gold' : 'text-warm-gray'
+              }`}
           >
             <span className="text-lg">{link.icon}</span>
             {link.label}
@@ -86,9 +84,8 @@ export default function Navbar() {
         ))}
         <Link
           to="/cart"
-          className={`flex flex-col items-center gap-0.5 text-xs relative transition-colors ${
-            location.pathname === '/cart' ? 'text-gold' : 'text-warm-gray'
-          }`}
+          className={`flex flex-col items-center gap-0.5 text-xs relative transition-colors ${location.pathname === '/cart' ? 'text-gold' : 'text-warm-gray'
+            }`}
         >
           <span className="text-lg"><FiShoppingBag /></span>
           Cart
